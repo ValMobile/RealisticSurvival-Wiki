@@ -20,6 +20,6 @@ If you have any further questions, feel free to hop onto our Discord Server and 
 
 <p align="center">
   <a href="https://discord.gg/mMt3f4usqK">
-    <img src="https://discordapp.com/api/guilds/565557184348422174/widget.png?style=banner3" alt="Discord Invite"/>
+    <img src="" alt="Discord Invite"/>
   </a>
 </p>
