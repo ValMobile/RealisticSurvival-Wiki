@@ -1,2 +1,8 @@
 # RLCraft-Wiki
-This repository is home to our RLCraft wiki. If you got decent knowledge of RLCraft, please consider contributing to this wiki, it would be much appreciated &lt;3
+This Repository houses RLCraft's wiki.<br>
+It is automatically synchronized with the main wiki, which you can find here:
+https://github.com/ValMobile/RLCraft/wiki
+
+## Want to contribute?
+We have written a detailed guide on how to contribute to the wiki:
+https://github.com/ValMobile/RLCraft/wiki/Expanding-the-Wiki
