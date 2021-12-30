@@ -1,4 +1,4 @@
-Welcome to RLCraft's Wiki!
+Welcome to RLCraft's Wiki!<br><br>
 This one is centered around you, the community.
 Contributions to the Wiki are therefore much appreciated!
 

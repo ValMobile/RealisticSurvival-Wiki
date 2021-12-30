@@ -1,7 +1,7 @@
 ## Overview
 * [What is RLCraft?](https://github.com/ValMobile/RLCraft/wiki/RLCraft-in-a-nutshell)
 * [How to install RLCraft](https://github.com/ValMobile/RLCraft/wiki/Installing-RLCraft)
-* [Getting Started](https://github.com/ValMobile/Slimefun4/wiki/Getting-Started)
+* [Getting Started](https://github.com/ValMobile/RLCraft/wiki/Getting-Started)
 * [Common Issues and Problems](https://github.com/ValMobile/RLCraft/wiki/Common-Issues)
 * [How to report bugs](https://github.com/ValMobile/RLCraft/wiki/How-to-report-bugs)
 * [Help us expand the Wiki!](https://github.com/ValMobile/RLCraft/wiki/Expanding-the-Wiki)
