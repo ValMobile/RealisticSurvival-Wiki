@@ -12,7 +12,7 @@ jobs:
 
     name: Synchronize Wiki
     runs-on: ubuntu-latest
-    if: github.repository == 'ValMobile/RLCraft'
+    if: github.repository == 'ValMobile/RLCraft-Wiki'
 
     steps:
     - name: Checking out Repository
