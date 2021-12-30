@@ -3,7 +3,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [How can I download / install RLCraft or its Addons?](#how-can-i-download--install-rlcraft-or-its-addons)
+- [How can I download / install RLCraft?](#how-can-i-download--install-rlcraft)
 - [Can I install RLCraft on a Singleplayer world?](#can-i-install-rlcraft-on-a-singleplayer-world)
 - [Will RLCraft be available for Minecraft version XYZ?](#will-rlcraft-be-available-for-minecraft-version-xyz)
 - [I have an error/bug with RLCraft](#i-have-an-errorbug-with-rlcraft)
