@@ -6,7 +6,7 @@ const http = require("https");
 const url = "https://github.com/ValMobile/RealisticSurvival/wiki/";
 
 // The regular expression to check for links that lead to a wiki page
-const regex = /\(https:\/\/github\.com\/ValMobile\/Realistic Survival\/wiki\/[A-Za-z-]+\)/g;
+const regex = /\(https:\/\/github\.com\/ValMobile\/RealisticSurvival\/wiki\/[A-Za-z-]+\)/g;
 
 /**
  * These are the options for our PATCH request to update Issue #2
