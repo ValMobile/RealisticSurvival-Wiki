@@ -12,10 +12,10 @@ assignees: ''
 <!-- Explain what you think should be added to the Wiki -->
 
 ## Addon Resources (if applicable)
-<!-- If you made an Addon, please link it here and describe how it interacts with RLCraft -->
+<!-- If you made an Addon, please link it here and describe how it interacts with Realistic Survival -->
 
 ## Wiki page (If applicable)
 <!-- What page is this addition related to? -->
 
-## RLCraft Version
-<!-- What Version of RLCraft are you using? -->
+## Realistic Survival Version
+<!-- What Version of Realistic Survival are you using? -->

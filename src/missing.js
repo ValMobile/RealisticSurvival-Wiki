@@ -3,10 +3,10 @@ const fs = require('fs');
 const http = require("https");
 
 // This is the URL to the deployed wiki
-const url = "https://github.com/ValMobile/RLCraft/wiki/";
+const url = "https://github.com/ValMobile/RealisticSurvival/wiki/";
 
 // The regular expression to check for links that lead to a wiki page
-const regex = /\(https:\/\/github\.com\/ValMobile\/RLCraft\/wiki\/[A-Za-z-]+\)/g;
+const regex = /\(https:\/\/github\.com\/ValMobile\/Realistic Survival\/wiki\/[A-Za-z-]+\)/g;
 
 /**
  * These are the options for our PATCH request to update Issue #2
@@ -15,9 +15,9 @@ const regex = /\(https:\/\/github\.com\/ValMobile\/RLCraft\/wiki\/[A-Za-z-]+\)/g
 const options = {
     method: "PATCH",
     hostname: "api.github.com",
-    path: "/repos/ValMobile/RLCraft-Wiki/issues/2",
+    path: "/repos/ValMobile/RealisticSurvival-Wiki/issues/2",
     headers: {
-        "User-Agent": "RLCraft Wiki Action",
+        "User-Agent": "Realistic Survival Wiki Action",
         "authorization": `token ${process.env.ACCESS_TOKEN}`,
         "content-type": "application/x-www-form-urlencoded"
     }
@@ -39,7 +39,7 @@ const missingPageTemplate = fs.readFileSync("pages/missing.md", "UTF-8");
 var issueBody =  `## :spider_web: The following pages are still missing!
 Help us out by contributing to the wiki and create one or more of these pages, it would be awesome! :heart:<br>
 We have a detailed guide on how to submit changes to the wiki for you right here:
-https://github.com/ValMobile/RLCraft/wiki/Expanding-the-Wiki
+https://github.com/ValMobile/RealisticSurvival/wiki/Expanding-the-Wiki
 
 ## :books: List of missing pages
 

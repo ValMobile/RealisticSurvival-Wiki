@@ -1,6 +1,6 @@
 ---
 name: Missing documentation
-about: A part of RLCraft is not covered by the Wiki? Let us know!
+about: A part of Realistic Survival is not covered by the Wiki? Let us know!
 title: ''
 labels: "\U0001F578 Missing documentation"
 assignees: ''
@@ -13,5 +13,5 @@ assignees: ''
 ## Wiki page (If applicable)
 <!-- What page is missing information? -->
 
-## RLCraft Version
-<!-- What Version of RLCraft are you using? -->
+## Realistic Survival Version
+<!-- What Version of Realistic Survival are you using? -->

@@ -16,5 +16,5 @@ assignees: ''
 ## Wiki page
 <!-- What page contains the misinformation? -->
 
-## RLCraft Version
-<!-- What Version of RLCraft are you using? -->
+## Realistic Survival Version
+<!-- What Version of Realistic Survival are you using? -->

@@ -1,5 +1,5 @@
 # Modifications to the wiki pages should be handled by the review team
-pages/*.md          @RLCraft/wiki-staff
+pages/*.md          @Realistic Survival/wiki-staff
 
 # Modifications to sensitive files should be reviewed by designated people
 /src/               @ValMobile
