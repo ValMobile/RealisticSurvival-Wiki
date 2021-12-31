@@ -1,11 +1,11 @@
 ## Overview
-* [What is Realistic Survival?](https://github.com/ValMobile/RealisticSurvival/wiki/Realistic Survival-in-a-nutshell)
-* [How to install Realistic Survival](https://github.com/ValMobile/RealisticSurvival/wiki/Installing-Realistic Survival)
+* [What is Realistic Survival?](https://github.com/ValMobile/RealisticSurvival/wiki/RealisticSurvival-in-a-nutshell)
+* [How to install Realistic Survival](https://github.com/ValMobile/RealisticSurvival/wiki/Installing-RealisticSurvival)
 * [Getting Started](https://github.com/ValMobile/RealisticSurvival/wiki/Getting-Started)
 * [Common Issues and Problems](https://github.com/ValMobile/RealisticSurvival/wiki/Common-Issues)
 * [How to report bugs](https://github.com/ValMobile/RealisticSurvival/wiki/How-to-report-bugs)
 * [Help us expand the Wiki!](https://github.com/ValMobile/RealisticSurvival/wiki/Expanding-the-Wiki)
-* [Help us translate Realistic Survival!](https://github.com/ValMobile/RealisticSurvival/wiki/Translating-Realistic Survival)
+* [Help us translate Realistic Survival!](https://github.com/ValMobile/RealisticSurvival/wiki/Translating-RealisticSurvival)
 * [FAQ](https://github.com/ValMobile/RealisticSurvival/wiki/FAQ)
 
 ## Categories
