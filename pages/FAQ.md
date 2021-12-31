@@ -3,10 +3,10 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [How can I download / install Realistic Survival?](#how-can-i-download--install-Realistic Survival)
-- [Can I install Realistic Survival on a Singleplayer world?](#can-i-install-Realistic Survival-on-a-singleplayer-world)
-- [Will Realistic Survival be available for Minecraft version XYZ?](#will-Realistic Survival-be-available-for-minecraft-version-xyz)
-- [I have an error/bug with Realistic Survival](#i-have-an-errorbug-with-Realistic Survival)
+- [How can I download / install Realistic Survival?](#how-can-i-download--install-realistic-survival)
+- [Can I install Realistic Survival on a Singleplayer world?](#can-i-install-realistic-survival-on-a-singleplayer-world)
+- [Will Realistic Survival be available for Minecraft version XYZ?](#will-realistic-survival-be-available-for-minecraft-version-xyz)
+- [I have an error/bug with Realistic Survival](#i-have-an-errorbug-with-realistic-survival)
 - [How does XYZ work?](#how-does-xyz-work)
 
 </details>
