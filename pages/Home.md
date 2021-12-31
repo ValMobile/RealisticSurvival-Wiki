@@ -9,7 +9,7 @@ Contributions to the Wiki are therefore much appreciated!
 * [Getting Started](https://github.com/ValMobile/RealisticSurvival/wiki/Getting-Started)
 * [Permissions](https://github.com/ValMobile/RealisticSurvival/wiki/Permissions) & [Commands](https://github.com/ValMobile/RealisticSurvival/wiki/Commands)
 * [Help us expand the Wiki!](https://github.com/ValMobile/RealisticSurvival/wiki/Expanding-the-Wiki)
-* [Help us translate ValMobile!](https://github.com/ValMobile/RealisticSurvival/wiki/Translating-Realistic Survival)
+* [Help us translate Realistic Survival!](https://github.com/ValMobile/RealisticSurvival/wiki/Translating-RealisticSurvival)
 * [Frequently Asked Questions (FAQ)](https://github.com/ValMobile/RealisticSurvival/wiki/FAQ)
 * [Common Issues](https://github.com/ValMobile/RealisticSurvival/wiki/Common-Issues)
 * [Create your own Addon](https://github.com/ValMobile/RealisticSurvival/wiki/Developer-Guide)
