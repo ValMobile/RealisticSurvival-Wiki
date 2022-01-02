@@ -2,7 +2,7 @@ If you have just started using Realistic Survival, it may seem overwhelming or v
 You may not know where to start.
 If that sounds familiar then you have come to the right place!
 
-This guide assumes that you have already installed Realistic Survival, otherwise start by reading [How to install Realistic Survival](https://github.com/ValMobile/RealisticSurvival/wiki/Installing-Realistic Survival)
+This guide assumes that you have already installed Realistic Survival, otherwise start by reading [How to install Realistic Survival](https://github.com/ValMobile/RealisticSurvival/wiki/Installing-Realistic-Survival)
 
 ## 1. The Flint Age
 You can no longer break trees with your bare fists, so you'll have to get wood by creating flint tools. First, find some gravel. Gravel is commonly found near water sources or underwater. Dig it until you get flint. From there, left-click the flint on a stone block to break it into flint shards. Break leaves to acquire sticks, and then craft a flint knife using the flint shard and stick as shown below.<br><br>

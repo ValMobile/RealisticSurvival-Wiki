@@ -12,7 +12,6 @@ Contributions to the Wiki are therefore much appreciated!
 * [Help us translate Realistic Survival!](https://github.com/ValMobile/RealisticSurvival/wiki/Translating-RealisticSurvival)
 * [Frequently Asked Questions (FAQ)](https://github.com/ValMobile/RealisticSurvival/wiki/FAQ)
 * [Common Issues](https://github.com/ValMobile/RealisticSurvival/wiki/Common-Issues)
-* [Create your own Addon](https://github.com/ValMobile/RealisticSurvival/wiki/Developer-Guide)
 
 ## Content Categories
 * [Tough As Nails](https://github.com/ValMobile/RealisticSurvival/wiki/ToughAsNails)

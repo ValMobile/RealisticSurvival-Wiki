@@ -13,7 +13,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## How can I download / install Realistic Survival?
-To download and install Realistic Survival you can refer to [this guide here](https://github.com/ValMobile/RealisticSurvival/wiki/Installing-Realistic Survival).
+To download and install Realistic Survival you can refer to [this guide here](https://github.com/ValMobile/RealisticSurvival/wiki/Installing-Realistic-Survival).
 
 ## Can I install Realistic Survival on a Singleplayer world?
 No.<br>
