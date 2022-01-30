@@ -23,16 +23,16 @@ Realistic Survival is a Bukkit / Spigot plugin, so it requires you to have a Buk
 Realistic Survival will only be available for versions 1.17 and onward. There are no plans for backporting to earlier versions.
 
 ## I have an error/bug with Realistic Survival
-Ok, first things first, join our [Support Server](https://discord.gg/mMt3f4usqK) if you aren't in it already and go to `#support`. We need to determine if it is a bug, user error or intended behaviour. Note that we **do not accept bug reports on discord, only on GitHub**. But experience has shown that 9 of 10 "bugs" tend to be the result of really outdated plugin versions or similar, so please try to discuss these issues with others on our discord server first, so that developers can focus on confirmed bug reports.
+Ok, first things first, join our [Support Server](https://discord.gg/mMt3f4usqK) if you aren't in it already and go to any of the support channels like `#support-x`. We need to determine if it is a bug, user error or intended behaviour. Note that we **do not accept bug reports on discord, only on GitHub**. But experience has shown that 9 of 10 "bugs" tend to be the result of really outdated plugin versions, improper installation, or similar, so please try to discuss these issues with others on our discord server first, so that developers can focus on confirmed bug reports.
 
-Now, send us the following information (in the `#support` channel):
+Now, send us the following information (in the `#support-x` channel):
 1. Check your console, are there any errors? (If so, then post them via https://pastebin.com/)
 
 2. What do you intend to happen and what is happening?
 
 Please also refer to [this page](https://github.com/ValMobile/RealisticSurvival/wiki/How-to-report-bugs) for a much more in-depth guide on how to report issues.
 
-Once you've sent us all this info then one of our staff or a community member will help you. **Do not ping any role or members**. If some time has passed (15+ mins) then you may ping the helpful role (`@Helpful`). Being impatient and pinging roles/members (**especially staff**) may get you warned or kicked.
+Once you've sent us all this info then one of our staff or a community member will help you. **Do not ping any role or members**. If some time has passed (15+ mins) then you may ping the helpfer role (`@Helper`). Being impatient and pinging roles/members (**especially staff**) may get you warned or kicked.
 
 ## How does XYZ work?
 If you'd like to know how an item works please refer to [our wiki](https://github.com/ValMobile/RealisticSurvival/wiki).

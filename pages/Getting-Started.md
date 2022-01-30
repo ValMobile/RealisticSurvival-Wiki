@@ -28,5 +28,5 @@ Now, combine the plant string, stick, and flint shard together to craft a flint 
 ## 6. Slaying Dragons
 
 ## 7. Enjoy the plugin
-Now we should have covered everything you need to know in order to start playing with Slimefun.
+Now we should have covered everything you need to know in order to start playing with Realistic Survival.
 Have fun and enjoy your adventure!
