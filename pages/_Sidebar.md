@@ -9,12 +9,12 @@
 * [FAQ](https://github.com/ValMobile/RealisticSurvival/wiki/FAQ)
 
 ## Categories
-* [Tough As Nails](https://github.com/ValMobile/RealisticSurvival/wiki/ToughAsNails)
-* [No Tree Punching](https://github.com/ValMobile/RealisticSurvival/wiki/NoTreePunching)
-* [Ice and Fire](https://github.com/ValMobile/RealisticSurvival/wiki/IceAndFire)
-* [Spartan Weaponry](https://github.com/ValMobile/RealisticSurvival/wiki/SpartanWeaponry)
+* [Tough As Nails](https://github.com/ValMobile/RealisticSurvival/wiki/Tough-as-Nails)
+* [No Tree Punching](https://github.com/ValMobile/RealisticSurvival/wiki/No-Tree-Punching)
+* [Ice and Fire](https://github.com/ValMobile/RealisticSurvival/wiki/Ice-and-Fire)
+* [Spartan Weaponry](https://github.com/ValMobile/RealisticSurvival/wiki/Spartan-Weaponry)
 * [Baubles](https://github.com/ValMobile/RealisticSurvival/wiki/Baubles)
-* [Lycanite's Mobs](https://github.com/ValMobile/RealisticSurvival/wiki/LycanitesMobs)
+* [Lycanite's Mobs](https://github.com/ValMobile/RealisticSurvival/wiki/Lycanites-Mobs)
 * [Waystones](https://github.com/ValMobile/RealisticSurvival/wiki/Waystones)
 
 <p>
