@@ -3,7 +3,7 @@ This one is centered around you, the community.
 Contributions to the Wiki are therefore much appreciated!
 
 # Overview
-* [What is Realistic Survival?](https://github.com/ValMobile/RealisticSurvival/wiki/RealisticSurvival-in-a-nutshell)
+* [What is Realistic Survival?](https://github.com/ValMobile/RealisticSurvival/wiki/Realistic-Survival-in-a-nutshell)
 * [How to install Realistic Survival](https://github.com/ValMobile/RealisticSurvival/wiki/Installing-Realistic-Survival)
   * [Optimizing your Realistic Survival Server](https://github.com/ValMobile/RealisticSurvival/wiki/Server-Optimizations)
 * [Getting Started](https://github.com/ValMobile/RealisticSurvival/wiki/Getting-Started)
