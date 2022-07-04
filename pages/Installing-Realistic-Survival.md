@@ -15,17 +15,32 @@ Drag and drop the Realistic Survival jar file into your server's */plugins/* dir
 Then, restart your server.<br>
 ***Do not use /reload, as it can cause intense memory leaks.***
 
+## Customizing the install
+Realistic Survival is divided into various modules, which represent the Forge mod of the same name. You can think of Realistic Survival as a "pluginpack" with each module being a plugin. You can enable and disable modules as you wish.
+To enable/disable a module,
+set "Enabled" to true/false respectively under the desired module.
+
+
+Realistic Survival is also per-world, meaning modules can be enabled on certain worlds and disabled on others.
+
+You can enable/disable a module on a world by adding a new entry under "EnabledWorlds" titled with the world name and true/false
+
+lobby: true --> Enables module on world named "lobby"
+lobby: false --> Disables module on world named "lobby"
+
 ## Configuring Realistic Survival
 This part assumes you now have Realistic Survival installed on your server.
 
-When viewing the Realistic Survival plugin folder, you will notice a few different .YML files. Start by viewing *config.yml* in your favorite text editor.
+When viewing the Realistic Survival plugin folder, you will notice a few different .YML files and some folders. Start by viewing *config.yml* in your favorite text editor.
 Personally, I recommend [Notepad++](https://notepad-plus-plus.org).
 
 Most of the things in this file are very self explanatory, from enabling certain modules to customizing
 various messages.
 
-**Items.yml*** allows you to enable or disable certain items *globally*. If you install multiple addons for Realistic Survival, this file can get very big,
-so, a recommendation is to take your time and install addons slowly, if again, you plan on enabling or disabling certain items.
+**resources** contains data for all the modules and
+
+**items.yml** contains the meta data for the rep the plugin. allows you to enable or disable certain items *globally*. If you install multiple addons for Realistic Survival, this file can get very big,
+so, a recommendation is to take your time and install addons slowly, if again, you plan on enabling or d
 
 **messages.yml** contains all data for messages when using Realistic Survival. You can edit what the plugin sends a player when a certain event occurs.
 
