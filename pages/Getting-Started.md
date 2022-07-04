@@ -17,7 +17,20 @@ Now, combine the plant string, stick, and flint shard together to craft a flint 
 
 ![Flint Axe Recipe](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/flint-axe-recipe.png)
 
-## 2. Managing Temperature and Thirst
+## 2. Managing Tough As Nails
+You should notice a new temperature circle and thirst bar sitting above the vanilla hunger bar, which display your temperature and thirst. You will have to manage your temperature to avoid getting hypothermia or hyperthermia as well as continually drink water to avoid dehydration.
+
+### Managing Temperature 
+Your temperature will fluctuate based off your surrounding environment, including the biome, certain blocks, daylight cycles, weather, and whether or not you're in an enclosed area. To view these various factors in more detail, check out toughasnails.yml. 
+
+As a general rule of thumb, you should build your base in a temperate biome and away from sources of heat or cold like lava or ice. Wearing armor helps regulate temperature with the exceptions being the wool and jelled slime armor sets, which only heat and cool the player respectively.
+
+In hot biomes, you should wear jelled slime armor and carry a water bucket around. Having a water bucket on hand allows you to submerge yourself if the temperature becomes too hot and also allows you to quickly replenish thirst. Soul campfires dramatically cool the player, making them useful for building in hot areas.
+
+In cold biomes, you should wear wool armor. Campfires (not soul) dramatically warm the player, making them useful for building in cold areas.
+
+### Managing Thirst
+Your thirst bar will slowly deplete. It is crucial you stay hydrated as you cannot sprint if your thirst drops below 3 bars and you will begin taking damage if it reaches 0 bars. You can replenish thirst by drinking water from water source blocks, rain, and from water and juice bottles. To drink from source blocks, shift and right click the water. To drink from rain, shift and left click while looking directly upwards. To drink from water and juice bottles, simply consume the item.
 
 ## 3. Crafting Spartan Weapons
 
