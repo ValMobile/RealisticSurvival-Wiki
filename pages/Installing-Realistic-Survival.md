@@ -2,7 +2,7 @@
 To install Realistic Survival, you will need a Spigot or Paper Server (most preferably the latest version).<br>
 Forks of either of these should work too, though we only test against Paper and Spigot.
 
-### Realistic Survival 4 Downloads
+### Realistic Survival Downloads
 You can download stable released builds on [Spigot](https://www.spigotmc.org/resources/realistic-survival-1-17-temperature-thirst-baubles.93795/history) or download development builds in the `dev-log` channel of the [Discord server](https://discord.gg/mMt3f4usqK).
 Stable builds have been around for quite a while and were thoroughly tested, development builds are the latest builds of Realistic Survival you can get.
 If your Server is very reliant on a working build of Realistic Survival, choose a stable build.
@@ -17,16 +17,17 @@ Then, restart your server.<br>
 
 ## Customizing the install
 Realistic Survival is divided into various modules, which represent the Forge mod of the same name. You can think of Realistic Survival as a "pluginpack" with each module being a plugin. You can enable and disable modules as you wish.
-To enable/disable a module,
-set "Enabled" to true/false respectively under the desired module.
 
+To enable/disable a module,
+set `Enabled` to `true`/`false` respectively under the desired module.
 
 Realistic Survival is also per-world, meaning modules can be enabled on certain worlds and disabled on others.
 
-You can enable/disable a module on a world by adding a new entry under "EnabledWorlds" titled with the world name and true/false
+You can enable/disable a module on a world by adding a new entry under `EnabledWorlds` titled with the world name and `true`/`false`
 
-lobby: true --> Enables module on world named "lobby"
-lobby: false --> Disables module on world named "lobby"
+`lobby: true` --> Enables module on world named `lobby`
+
+`lobby: false`  --> Disables module on world named `lobby`
 
 ## Configuring Realistic Survival
 This part assumes you now have Realistic Survival installed on your server.
@@ -34,20 +35,17 @@ This part assumes you now have Realistic Survival installed on your server.
 When viewing the Realistic Survival plugin folder, you will notice a few different .YML files and some folders. Start by viewing *config.yml* in your favorite text editor.
 Personally, I recommend [Notepad++](https://notepad-plus-plus.org).
 
-Most of the things in this file are very self explanatory, from enabling certain modules to customizing
-various messages.
+Most of the things in this file are very self explanatory, from enabling certain modules to customizing various messages. If you want more information customizing config files, see [this guide](https://github.com/ValMobile/RealisticSurvival/wiki/Editing-Config-Files).
 
-**resources** contains data for all the modules and
+**baubles.yml/iceandfire.yml/etc.yml** allows editing of features of the respective module. This includes enabling and disabling items and recipes, configuring abilities, and performance customizations.
 
-**items.yml** contains the meta data for the rep the plugin. allows you to enable or disable certain items *globally*. If you install multiple addons for Realistic Survival, this file can get very big,
-so, a recommendation is to take your time and install addons slowly, if again, you plan on enabling or d
+**resources** contains data for all the modules, their items, and recipes
 
-**messages.yml** contains all data for messages when using Realistic Survival. You can edit what the plugin sends a player when a certain event occurs.
+**baubles/iceandfire/etc** contain .YML files for the items and recipes of the respective module
 
-**Researches.yml** allows you to edit the XP Values of items in Realistic Survival, as well as their names, you can also disable researching all together if you wish to allow players
-the ability to use all of Realistic Survival right off the bat.
+**items.yml** contains the meta data for the items of a module. Most users will not need to edit this file as the default item settings work well, but if you do need to edit, do so carefully, following [this guide](https://github.com/ValMobile/RealisticSurvival/wiki/Editing-Item-YML-Files).
 
-**permissions.yml** allows you to define permission nodes for Realistic Survival items to restrict the usage of items based on user's permission levels.
+**recipes.yml** contains the data for the recipes of a module. Most users will not need to edit this file as the default recipe settings work well, but if you do need to edit, do so carefully, following [this guide](https://github.com/ValMobile/RealisticSurvival/wiki/Editing-Recipe-YML-Files).
 
 Any changes you make should be saved, then restart the server. Again, ***do not use /reload.*** If you are experiencing issues, and you issued a server reload,
 just stop and restart the server, since this fixes most issues.

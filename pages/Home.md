@@ -18,9 +18,8 @@ Contributions to the Wiki are therefore much appreciated!
 * [No Tree Punching](https://github.com/ValMobile/RealisticSurvival/wiki/No-Tree-Punching)
 * [Ice and Fire](https://github.com/ValMobile/RealisticSurvival/wiki/Ice-and-Fire)
 * [Spartan Weaponry](https://github.com/ValMobile/RealisticSurvival/wiki/Spartan-Weaponry)
+* [Spartan and Fire](https://github.com/ValMobile/RealisticSurvival/wiki/Spartan-and-Fire)
 * [Baubles](https://github.com/ValMobile/RealisticSurvival/wiki/Baubles)
-* [Lycanite's Mobs](https://github.com/ValMobile/RealisticSurvival/wiki/Lycanites-Mobs)
-* [Waystones](https://github.com/ValMobile/RealisticSurvival/wiki/Waystones)
 
 ## Discord
 Realistic Survival also has a Discord Server for you to make suggestions, discuss features or just chat around.
