@@ -1,6 +1,6 @@
 Welcome to Realistic Survival's Wiki!<br><br>
 This one is centered around you, the community.
-Contributions to the Wiki are therefore much appreciated!
+Contributions to the Wiki are, therefore, much appreciated!
 
 # Overview
 * [What is Realistic Survival?](https://github.com/ValMobile/RealisticSurvival/wiki/Realistic-Survival-in-a-nutshell)
@@ -22,5 +22,5 @@ Contributions to the Wiki are therefore much appreciated!
 * [Baubles](https://github.com/ValMobile/RealisticSurvival/wiki/Baubles)
 
 ## Discord
-Realistic Survival also has a Discord Server for you to make suggestions, discuss features or just chat around.
+Realistic Survival also has a Discord Server for you to make suggestions, discuss features or just chat.
 https://discord.gg/mMt3f4usqK
