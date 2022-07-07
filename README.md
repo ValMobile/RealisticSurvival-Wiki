@@ -1,4 +1,4 @@
-# Realistic Survival-Wiki
+# Realistic Survival Wiki
 This Repository houses Realistic Survival's wiki.<br>
 It is automatically synchronized with the main wiki, which you can find here:
 https://github.com/ValMobile/RealisticSurvival/wiki
