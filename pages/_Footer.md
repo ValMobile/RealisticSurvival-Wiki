@@ -8,6 +8,6 @@ Here are a few ways you can help with that:
 If you have any questions, you can also just join Realistic Survival's Discord Server and ask there :)
 <p align="center">
   <a href="https://discord.gg/mMt3f4usqK">
-    <img src="" alt="Discord Invite"/>
+    <img src="https://discordapp.com/api/guilds/860666565463638017/widget.png?style=banner3" alt="Discord Invite"/>
   </a>
 </p>

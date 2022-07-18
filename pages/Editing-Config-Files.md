@@ -14,15 +14,15 @@ As an example, in `config.yml`, you must add a key containing each of your world
 
 `another_world: true`
 
-As another example, in `bauble.yml`, you can add keys and several values to allow certain baubles like the stone of the sea to give you more potion effects. The default customization of the stone of the sea is listed below.
-![Default Stone of the Sea Keys](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/config-tutorial-stone-sea-default.png)
+As another example, in `bauble.yml`, you can add keys and several values to allow certain baubles like the stone of the sea to give you more potion effects. The default customization of the stone of the sea is listed below.<br>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/config-tutorial-stone-sea-default.png" width="184" height="234" alt="Default Stone of the Sea Keys"/>
 
 
-To demonstrate, if you wanted the stone of the sea to give you resistance 2 for 20 seconds as well, you would add this key and its values below:
-![Resistance Effect Addition](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/config-tutorial-stone-sea-resistance.png)
+To demonstrate, if you wanted the stone of the sea to give you resistance 2 for 20 seconds as well, you would add this key and its values below:<br>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/config-tutorial-stone-sea-resistance.png" width="144" height="71" alt="Resistance Effect Addition"/>
 
-The result would look like this.
-![Edited Stone of the Sea Keys](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/config-tutorial-stone-sea-edited.png)
+The result would look like this.<br>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/config-tutorial-stone-sea-edited.png" width="182" height="278" alt="Edited Stone of the Sea Keys"/>
 
 
 ### Adding to a list
@@ -30,16 +30,15 @@ To add to a list, simply add a dash below the bottommost entry followed by the v
 
 For example, in `notreepunching.yml`, you can add the name of a [material enum constant](https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html) to the `WoodBlocks` list to prevent that block from being broken by a player's fists.
 
-The default customization of the `WoodBlocks` list is shown below.
+The default customization of the `WoodBlocks` list is shown below.<br>
 
-![Default WoodBlocks List](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/config-tutorial-woodblocks-default.png)
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/config-tutorial-woodblocks-default.png" width="179" height="495" alt="Default WoodBlocks List"/>
 
-To demonstrate, if you wanted the player to also be unable to break oak planks in addition to the above blocks, you would add this below the lowest entry:
+To demonstrate, if you wanted the player to also be unable to break oak planks in addition to the above blocks, you would add this below the lowest entry:<br>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/config-tutorial-woodblocks-planks.png" width="123" height="19" alt="Oak Planks Addition"/>
 
-![Oak Planks Addition](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/config-tutorial-woodblocks-planks.png)
-
-The result would look like this.
-![Edited WoodBlocks List](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/config-tutorial-woodblocks-edited.png)
+The result would look like this.<br>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/config-tutorial-woodblocks-edited.png" width="185" height="512" alt="Edited WoodBlocks List"/>
 
 **Never use tab spaces to move text around in YAML files as this will cause errors. Only use your spacebar to move text around.**
 
