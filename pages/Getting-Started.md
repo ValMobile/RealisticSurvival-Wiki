@@ -21,7 +21,9 @@ Now, combine the plant string, stick, and flint shard to craft a flint axe as sh
 You should notice a new temperature circle and thirst bar, which displays your temperature and thirst. You must manage your temperature to avoid hypothermia or hyperthermia and continually drink water to avo id dehydration.
 
 ### Managing Temperature
-Your temperature will fluctuate based on your surrounding environment, including the biome, certain blocks, daylight cycles, weather, and whether or not you're in an enclosed area. You must maintain a neutral temperature to avoid screen tinting and damage from hypothermia or hyperthermia. To view these various factors in more detail, check out toughasnails.yml.
+Your temperature will fluctuate based on your surrounding environment, including the biome, certain blocks, daylight cycles, weather, and whether or not you're in an enclosed area. 
+You must maintain a neutral temperature to avoid screen tinting and damage from hypothermia or hyperthermia. 
+To view these various factors in more detail, check out toughasnails.yml.
 
 As a general rule of thumb, you should build your base in a temperate biome. Avoid hot and cold sources like lava pools or ice blocks. Most armor sets, when worn, will regulate temperature. However, the wool and jelled slime armor sets heat and cool the player, respectively.
 
@@ -30,7 +32,13 @@ Recommended gear in hot biomes includes jelled slime armor and a water bucket. H
 Recommended gear in cold biomes includes wool armor and campfires. Campfires (not the soul variants) dramatically warm the player, making them useful for building in cold areas.
 
 ### Managing Thirst
-Your thirst bar will slowly deplete. You must stay hydrated to avoid losing sprint and health. You can replenish your thirst by drinking water from water source blocks, rain, water bottles, and juice bottles. To drink from source blocks, shift and right-click the water. To drink from rain, shift and left click while looking directly upwards. To drink from water and juice bottles, simply consume the item.
+Your thirst bar will slowly deplete. You must stay hydrated to avoid losing sprint and health.<br>
+You can replenish your thirst by drinking water from water source blocks, rain, water bottles, and juice bottles.<br>
+
+
+To drink from source blocks, shift and right-click the water.<br>
+To drink from rain, shift and left click while looking directly upwards.<br>
+To drink from water and juice bottles, simply consume the item.
 
 ## 3. Crafting Spartan Weapons
 

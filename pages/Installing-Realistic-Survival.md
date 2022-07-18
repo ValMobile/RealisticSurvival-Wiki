@@ -13,21 +13,32 @@ But if you want to help contribute to Realistic Survival by reporting issues and
 ## How to install
 Drag and drop the Realistic Survival jar file into your server's */plugins/* directory.
 Then, restart your server.<br>
+Next, configure the per-world settings to ensure the plugin is enabled on your desired worlds. See the [customizing the 
+install guide](#customizing-the-install) for more information. <br>
+Finally, set `Force Unicode Font` to `off` in `Language...` option settings. This is necessary for the temperature and thirst bar to properly display.
+
+***If you are migrating from an older version, follow the instructions under the [migration guide](#migrating-from-older-versions) first before installing.***
+
 ***Do not use /reload, as it can cause intense memory leaks.***
 
 ## Customizing the install
 Realistic Survival is divided into various modules, each of which represent the Forge mod of the same name. You can think of Realistic Survival as a "plugin pack" with each module being a plugin. You can enable and disable modules as you wish.
 
-To enable/disable a module,
-set `Enabled` to `true`/`false` respectively under the desired module.
+To enable or disable a module,
+set `Enabled` to `true` or `false` respectively under the desired module.
 
 Realistic Survival is also per-world, meaning modules can be enabled on certain worlds and disabled on others.
 
-You can enable/disable a module on a world by adding a new entry under `EnabledWorlds` titled with the world name and `true`/`false`
+You can enable or disable a module on a world by adding a new entry under `EnabledWorlds` titled with the world name and `true` or `false`, respectively
 
 `lobby: true` --> Enables module on the world named `lobby`
 
 `lobby: false`  --> Disables module on the world named `lobby`
+
+## Migrating from older versions
+If you are migrating from an older version, you must reset the Realistic Survival plugins folder.<br>
+This means you must stop the server, completely delete the Realistic Survival plugin folder and its contents, and restart the server.<br>
+If you wish to transfer your current configuration settings, you must first move your current config files to a separate folder and then retype all the configurations manually.
 
 ## Configuring Realistic Survival
 This part assumes you now have Realistic Survival installed on your server.

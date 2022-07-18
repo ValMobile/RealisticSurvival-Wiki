@@ -15,47 +15,14 @@ As an example, in `config.yml`, you must add a key containing each of your world
 `another_world: true`
 
 As another example, in `bauble.yml`, you can add keys and several values to allow certain baubles like the stone of the sea to give you more potion effects. The default customization of the stone of the sea is listed below.
+![Default Stone of the Sea Keys](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/config-tutorial-stone-sea-default.png)
 
-    stone_sea:
-        Enabled: true
-        TickTime: 20
-        SwimSpeedMultiplier: 2.0
-        Effects:
-            WATER_BREATHING:
-                AmplifierIncrement: 0
-                Amplifier: 0
-                Duration: 270
-            NIGHT_VISION:
-                AmplifierIncrement: 0
-                Amplifier: 0
-                Duration: 420
 
-To demonstrate, if you wanted the stone of the sea to give you resistance 2 for 20 seconds as well, you would add this key and its values below: NIGHT_VISION.
-
-    DAMAGE_RESISTANCE
-        AmplifierIncrement: 0
-        Amplifier: 1
-        Duration: 400
+To demonstrate, if you wanted the stone of the sea to give you resistance 2 for 20 seconds as well, you would add this key and its values below:
+![Resistance Effect Addition](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/config-tutorial-stone-sea-resistance.png)
 
 The result would look like this.
-
-    stone_sea:
-        Enabled: true
-        TickTime: 20
-        SwimSpeedMultiplier: 2.0
-        Effects:
-            WATER_BREATHING:
-                AmplifierIncrement: 0
-                Amplifier: 0
-                Duration: 270
-            NIGHT_VISION:
-                AmplifierIncrement: 0
-                Amplifier: 0
-                Duration: 420
-            DAMAGE_RESISTANCE:
-                AmplifierIncrement: 0
-                Amplifier: 1
-                Duration: 400
+![Edited Stone of the Sea Keys](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/config-tutorial-stone-sea-edited.png)
 
 
 ### Adding to a list
@@ -65,72 +32,14 @@ For example, in `notreepunching.yml`, you can add the name of a [material enum c
 
 The default customization of the `WoodBlocks` list is shown below.
 
-    WoodBlocks:
-      - "OAK_LOG"
-      - "OAK_WOOD"
-      - "STRIPPED_OAK_LOG"
-      - "STRIPPED_OAK_WOOD"
-      - "BIRCH_LOG"
-      - "BIRCH_WOOD"
-      - "STRIPPED_BIRCH_LOG"
-      - "STRIPPED_BIRCH_WOOD"
-      - "SPRUCE_LOG"
-      - "SPRUCE_WOOD"
-      - "STRIPPED_SPRUCE_LOG"
-      - "STRIPPED_SPRUCE_WOOD"
-      - "DARK_OAK_LOG"
-      - "DARK_OAK_WOOD"
-      - "STRIPPED_DARK_OAK_LOG"
-      - "STRIPPED_DARK_OAK_WOOD"
-      - "JUNGLE_LOG"
-      - "JUNGLE_WOOD"
-      - "STRIPPED_JUNGLE_LOG"
-      - "STRIPPED_JUNGLE_WOOD"
-      - "CRIMSON_STEM"
-      - "CRIMSON_HYPHAE"
-      - "STRIPPED_CRIMSON_STEM"
-      - "STRIPPED_CRIMSON_HYPHAE"
-      - "WARPED_STEM"
-      - "WARPED_HYPHAE"
-      - "STRIPPED_WARPED_STEM"
-      - "STRIPPED_WARPED_HYPHAE"
+![Default WoodBlocks List](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/config-tutorial-woodblocks-default.png)
 
 To demonstrate, if you wanted the player to also be unable to break oak planks in addition to the above blocks, you would add this below the lowest entry:
 
-`- "OAK_PLANKS"`
+![Oak Planks Addition](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/config-tutorial-woodblocks-planks.png)
 
 The result would look like this.
-
-    WoodBlocks:
-      - "OAK_LOG"
-      - "OAK_WOOD"
-      - "STRIPPED_OAK_LOG"
-      - "STRIPPED_OAK_WOOD"
-      - "BIRCH_LOG"
-      - "BIRCH_WOOD"
-      - "STRIPPED_BIRCH_LOG"
-      - "STRIPPED_BIRCH_WOOD"
-      - "SPRUCE_LOG"
-      - "SPRUCE_WOOD"
-      - "STRIPPED_SPRUCE_LOG"
-      - "STRIPPED_SPRUCE_WOOD"
-      - "DARK_OAK_LOG"
-      - "DARK_OAK_WOOD"
-      - "STRIPPED_DARK_OAK_LOG"
-      - "STRIPPED_DARK_OAK_WOOD"
-      - "JUNGLE_LOG"
-      - "JUNGLE_WOOD"
-      - "STRIPPED_JUNGLE_LOG"
-      - "STRIPPED_JUNGLE_WOOD"
-      - "CRIMSON_STEM"
-      - "CRIMSON_HYPHAE"
-      - "STRIPPED_CRIMSON_STEM"
-      - "STRIPPED_CRIMSON_HYPHAE"
-      - "WARPED_STEM"
-      - "WARPED_HYPHAE"
-      - "STRIPPED_WARPED_STEM"
-      - "STRIPPED_WARPED_HYPHAE"
-      - "OAK_PLANKS"
+![Edited WoodBlocks List](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/config-tutorial-woodblocks-edited.png)
 
 **Never use tab spaces to move text around in YAML files as this will cause errors. Only use your spacebar to move text around.**
 
