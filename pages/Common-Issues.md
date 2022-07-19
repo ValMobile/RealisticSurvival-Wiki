@@ -14,7 +14,7 @@
 
 This page contains useful information about common in-game issues and how to resolve them.<br>
 
-**NOTE: some issues are actually multiple separate issues, indicated by a division in troubleshooting steps. They have been centralizing under a main issue for ease of access.
+**NOTE: some issues are actually multiple separate issues, indicated by a division in troubleshooting steps. They have been moved under a main issue for ease of access.
 If you've followed the troubleshooting guide with no success, consider [filing a bug report!](https://github.com/ValMobile/RealisticSurvival/wiki/How-to-report-bugs)**
 
 ## Temperature and thirst bar not displaying properly
