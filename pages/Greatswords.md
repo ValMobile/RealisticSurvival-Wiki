@@ -38,6 +38,8 @@ Note that to use any features, including items and recipes, from
 the Spartan and Fire module, you must first enable Spartan Weaponry globally and on a [per-world basis](https://github.com/ValMobile/RealisticSurvival/wiki/Installing-Realistic-Survival#customizing-the-install).
 
 ## History
+- [1.2.3 (Upcoming)](https://github.com/ValMobile/RealisticSurvival/wiki/1.2.3): Moved the dragonbone and dragonsteel greatsword variants to the new Spartan and Fire module, added abilities to greatswords, and fixed uncraftable netherite greatswords
+- [1.2](https://github.com/ValMobile/RealisticSurvival/wiki/1.2): Added vanilla material variants.
 - [1.1](https://github.com/ValMobile/RealisticSurvival/wiki/1.1): Glass breaking sound added to ice dragonbone and dragonsteel abilities.
 - [Release](https://github.com/ValMobile/RealisticSurvival/wiki/Release): Introduced.
 

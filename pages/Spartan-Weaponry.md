@@ -1,4 +1,4 @@
-Weapons Galore! A whole new arsenal of weaponry made for Minecraft. 
+Weapons Galore! A whole new arsenal of weaponry made for Minecraft.<br><br>
 Intended to replicate the Forge mod of the same name, the module adds weapons from that mod, expanding the vanilla arsenal with a bunch of unique weapons, including a variety of swords, polearms, blunt and ranged weapons.
 
 
@@ -30,8 +30,8 @@ And of course, the wool in the pole recipe can be substituted for leather.
 
 Fast attack speed, but low damage. Can be thrown at foes in a pinch.<br>
 Traits: Throwable<br>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/player-holding-dagger.png" width="248" height="140" alt="Player holding stone dagger"/>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/dagger-stone-recipe.png" width="248" height="140" alt="Stone dagger recipe"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/player-holding-dagger.png" width="180" height="224" alt="Player holding stone dagger"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/dagger-stone-recipe.png" width="248" height="140" alt="Stone dagger recipe"/><br>
 See [this](https://github.com/ValMobile/RealisticSurvival/wiki/Daggers) for more information on daggers.
 
 </details>
@@ -41,8 +41,8 @@ See [this](https://github.com/ValMobile/RealisticSurvival/wiki/Daggers) for more
 
 Stronger damage, but slightly slower attack speed.
 Traits: Two-Handed I & Sweep I<br>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/player-holding-longsword.png" width="248" height="140" alt="Player holding iron longsword"/>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/longsword-iron-recipe.png" width="248" height="140" alt="Iron longsword recipe"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/player-holding-longsword.png" width="180" height="233" alt="Player holding iron longsword"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/longsword-iron-recipe.png" width="248" height="140" alt="Iron longsword recipe"/><br>
 See [this](https://github.com/ValMobile/RealisticSurvival/wiki/Longswords) for more information on longswords.
 
 </details>
@@ -52,7 +52,7 @@ See [this](https://github.com/ValMobile/RealisticSurvival/wiki/Longswords) for m
 
 High damage, extended reach and deals full damage to multiple foes. Unwieldy and slightly slow attack speed. 
 Properties: Reach I, Sweep III & Two-Handed II<br>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/player-holding-greatsword.png" width="248" height="140" alt="Player holding diamond greatsword"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/player-holding-greatsword.png" width="231" height="224" alt="Player holding diamond greatsword"/>
 <img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/greatsword-diamond-recipe.png" width="248" height="140" alt="Diamond greatsword recipe"/><br>
 See [this](https://github.com/ValMobile/RealisticSurvival/wiki/Greatswords) for more information on greatswords.
 
