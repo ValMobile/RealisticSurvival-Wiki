@@ -39,8 +39,8 @@ See [this](https://github.com/ValMobile/RealisticSurvival/wiki/Daggers) for more
 <details>
 <summary>Longsword</summary>
 
-Stronger damage, but slightly slower attack speed.
-Traits: Two-Handed I & Sweep I<br>
+Stronger damage, but slightly slower attack speed.<br>
+Traits: Two-Handed I and Sweep I<br>
 <img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/player-holding-longsword.png" width="180" height="233" alt="Player holding iron longsword"/>
 <img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/longsword-iron-recipe.png" width="248" height="140" alt="Iron longsword recipe"/><br>
 See [this](https://github.com/ValMobile/RealisticSurvival/wiki/Longswords) for more information on longswords.
@@ -50,16 +50,59 @@ See [this](https://github.com/ValMobile/RealisticSurvival/wiki/Longswords) for m
 <details>
 <summary>Greatsword</summary>
 
-High damage, extended reach and deals full damage to multiple foes. Unwieldy and slightly slow attack speed. 
-Properties: Reach I, Sweep III & Two-Handed II<br>
+High damage, extended reach and deals full damage to multiple foes. Unwieldy and slightly slow attack speed.<br>
+Traits: Reach I, Sweep III and Two-Handed II<br>
 <img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/player-holding-greatsword.png" width="231" height="224" alt="Player holding diamond greatsword"/>
 <img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/greatsword-diamond-recipe.png" width="248" height="140" alt="Diamond greatsword recipe"/><br>
 See [this](https://github.com/ValMobile/RealisticSurvival/wiki/Greatswords) for more information on greatswords.
 
 </details>
 
+<details>
+<summary>Katana</summary>
+
+Faster attack speed, but deals fairly low damage. Does more damage to foes without chest armour.<br>
+Traits: Chest Damage Bonus and Two-Handed I<br>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/player-holding-katana.png" width="180" height="224" alt="Player holding golden katana"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/katana-gold-recipe.png" width="248" height="140" alt="Golden katana recipe"/><br>
+See [this](https://github.com/ValMobile/RealisticSurvival/wiki/Katanas) for more information on katanas.
+
+</details>
+
+<details>
+<summary>Saber</summary>
+
+Slightly faster attack speed, but deals slightly low damage. Does more damage to foes without chest armour.<br>
+Traits: Chest Damage Bonus, Damage Absorption, and Sweep I<br>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/player-holding-saber.png" width="180" height="224" alt="Player holding iron saber"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/saber-iron-recipe.png" width="248" height="140" alt="Iron saber recipe"/><br>
+See [this](https://github.com/ValMobile/RealisticSurvival/wiki/Sabers) for more information on sabers.
+
+</details>
+
+<details>
+<summary>Rapier</summary>
+
+Significantly faster attack speed, but deals quite low damage. Does significantly more damage to foes without any armour.<br>
+Traits: Unarmored Damage Bonus and Damage Absorption<br>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/player-holding-rapier.png" width="180" height="224" alt="Player holding diamond saber"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/rapier-diamond-recipe.png" width="248" height="140" alt="Diamond rapier recipe"/><br>
+See [this](https://github.com/ValMobile/RealisticSurvival/wiki/Rapiers) for more information on rapiers.
+
+</details>
 
 ## Blunt Weapons
+
+<details>
+<summary>Quarterstaff</summary>
+
+Low damage but very cheap to craft.<br>
+Traits: Sweep II and Reach I<br>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/player-holding-quarterstaff.png" width="180" height="224" alt="Player holding wooden quarterstaff"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/quarterstaff-wood-recipe.png" width="248" height="140" alt="Wooden quarterstaff recipe"/><br>
+See [this](https://github.com/ValMobile/RealisticSurvival/wiki/Quarterstaffs) for more information on quarterstaffs.
+
+</details>
 
 ## Polearm Weapons
 

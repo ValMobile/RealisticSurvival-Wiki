@@ -1,17 +1,17 @@
 A greatsword is a bladed weapon with high damage, extended reach, and full area-of-effect (AOE) damage.
 It is unwieldy and has a slightly slower attack speed than regular swords.
 
-This page applies only to the default, pre-generated configuration of Realistic Survival. If you have customized the Spartan Weaponry items,
-the information listed here will not be consistent with your modified values.
+This page applies to the default, pre-generated configuration of the most recent version of Realistic Survival. If you have customized the Spartan Weaponry items or are using
+an older version of Realistic Survival, the information listed here may not be consistent with your values.
 
 The greatsword possesses the following weapon traits:
 - Reach I
-  - Allows player to hit mobs from a farther range
+  - Allows player to hit mobs up to 7 blocks away
 - Two-Handed II
-  - Applies Mining Fatigue III when any item is held in the offhand
-  - If the off-hand is empty the Greatsword swings at normal speed.
+  - Applies Mining Fatigue IV for 0.5 seconds when any item is held in the offhand
+  - If the off-hand is empty, the greatsword swings at normal speed.
 - Sweep III
-  - Deals full damage to multiple foes
+  - Deals 100% of base damage to multiple foes
 
 ## Variants
 
@@ -25,7 +25,7 @@ The greatsword possesses the following weapon traits:
 
 
 ## Tips
-- You can use the [Vitamins bauble](https://github.com/ValMobile/RealisticSurvival/wiki/Vitamins) to nullify the Two-Handed Mining Fatigue debuff. This allows you to swing the greatsword at max speed with an item in the off-hand.
+- You can use the [<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/vitamins-item.png" width="16" height="16" alt="Vitamins"/> Vitamins bauble](https://github.com/ValMobile/RealisticSurvival/wiki/Vitamins) to nullify the Two-Handed Mining Fatigue debuff. This allows you to swing the greatsword at max speed with an item in the off-hand.
 - It excels at clearing groups of mobs due to its sweep and extra range
 
 ## Trivia
