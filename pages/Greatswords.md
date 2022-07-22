@@ -6,12 +6,12 @@ an older version of Realistic Survival, the information listed here may not be c
 
 The greatsword possesses the following weapon traits:
 - Reach I
-  - Allows player to hit mobs up to 7 blocks away
+  - Allows player to hit mobs up to 7 blocks away.
 - Two-Handed II
-  - Applies Mining Fatigue IV for 0.5 seconds when any item is held in the offhand
+  - Applies Mining Fatigue IV for 0.5 seconds when any item is held in the offhand.
   - If the off-hand is empty, the greatsword swings at normal speed.
 - Sweep III
-  - Deals 100% of base damage to multiple foes
+  - Deals 100% of base damage to multiple foes.
 
 ## Variants
 
@@ -41,13 +41,13 @@ the Spartan and Fire module, you must first enable Spartan Weaponry globally and
 
 ## History
 - [1.2.3 (Upcoming)](https://github.com/ValMobile/RealisticSurvival/wiki/1.2.3): 
-  - Moved the dragonbone and dragonsteel greatsword variants to the new Spartan and Fire module
-  - Added abilities to greatswords
-  - Fixed uncraftable netherite greatswords
-  - Increased copper greatsword durability from 132 to 175
-  - Increased dragonbone greatsword durability from 1562 to 1660
-  - Increased fire, ice, and lightning dragonbone greatsword variant durabilities from 1562 to 2000
-  - Increased dragonsteel greatsword variant durabilities from 2031 to 8000
+  - Moved the dragonbone and dragonsteel greatsword variants to the new Spartan and Fire module.
+  - Added abilities to greatswords.
+  - Fixed uncraftable netherite greatswords.
+  - Increased copper greatsword durability from 132 to 175.
+  - Increased dragonbone greatsword durability from 1562 to 1660.
+  - Increased fire, ice, and lightning dragonbone greatsword variant durabilities from 1562 to 2000.
+  - Increased dragonsteel greatsword variant durabilities from 2031 to 8000.
 - [1.2](https://github.com/ValMobile/RealisticSurvival/wiki/1.2): Added vanilla material variants.
 - [1.1](https://github.com/ValMobile/RealisticSurvival/wiki/1.1): Glass breaking sound added to ice dragonbone and dragonsteel abilities.
 - [Release](https://github.com/ValMobile/RealisticSurvival/wiki/Release): Introduced.

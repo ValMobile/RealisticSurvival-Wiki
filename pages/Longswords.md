@@ -5,10 +5,10 @@ an older version of Realistic Survival, the information listed here may not be c
 
 The longsword possesses the following weapon traits:
 - Two-Handed I
-  - Applies Mining Fatigue III for 0.5 seconds when any item is held in the offhand
+  - Applies Mining Fatigue III for 0.5 seconds when any item is held in the offhand.
   - If the off-hand is empty, the longsword swings at normal speed.
 - Sweep I
-  - Deals 25% of normal damage to multiple foes
+  - Deals 25% of normal damage to multiple foes.
 
 ## Variants
 
@@ -37,13 +37,13 @@ the Spartan and Fire module, you must first enable Spartan Weaponry globally and
 
 ## History
 - [1.2.3 (Upcoming)](https://github.com/ValMobile/RealisticSurvival/wiki/1.2.3):
-  - Moved the dragonbone and dragonsteel longsword variants to the new Spartan and Fire module
-  - Added abilities to longswords
-  - Fixed uncraftable netherite longswords
-  - Increased copper longsword durability from 132 to 175
-  - Increased dragonbone longsword durability from 1562 to 1660
-  - Increased fire, ice, and lightning dragonbone longsword variant durabilities from 1562 to 2000
-  - Increased dragonsteel longsword variant durabilities from 2031 to 8000
+  - Moved the dragonbone and dragonsteel longsword variants to the new Spartan and Fire module.
+  - Added abilities to longswords.
+  - Fixed uncraftable netherite longswords.
+  - Increased copper longsword durability from 132 to 175.
+  - Increased dragonbone longsword durability from 1562 to 1660.
+  - Increased fire, ice, and lightning dragonbone longsword variant durabilities from 1562 to 2000.
+  - Increased dragonsteel longsword variant durabilities from 2031 to 8000.
 - [1.2](https://github.com/ValMobile/RealisticSurvival/wiki/1.2): Added vanilla material variants.
 - [1.1](https://github.com/ValMobile/RealisticSurvival/wiki/1.1): Glass breaking sound added to ice dragonbone and dragonsteel abilities.
 - [Release](https://github.com/ValMobile/RealisticSurvival/wiki/Release): Introduced.
