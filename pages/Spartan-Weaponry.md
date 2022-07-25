@@ -29,7 +29,7 @@ And of course, the wool in the pole recipe can be substituted for leather.
 <summary>Dagger</summary>
 
 Fast attack speed, but low damage. Can be thrown at foes in a pinch.<br>
-Traits: Throwable<br>
+Traits: Backstab Damage Bonus, Throwable<br>
 <img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/player-holding-dagger.png" width="180" height="224" alt="Player holding stone dagger"/>
 <img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/dagger-stone-recipe.png" width="248" height="140" alt="Stone dagger recipe"/><br>
 See [this](https://github.com/ValMobile/RealisticSurvival/wiki/Daggers) for more information on daggers.
