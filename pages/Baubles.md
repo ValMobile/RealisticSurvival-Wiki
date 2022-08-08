@@ -7,7 +7,7 @@ Most of these trinkets can be made from the new loot and materials, and each typ
 different properties that help with combat, survivng or exploring of the world.
 
 
-##Baubles
+## Baubles
 This chapter is about baubles, that this module adds. 
 
 
@@ -79,4 +79,4 @@ description was here<br><br>
 
 </details>
 
-##Materials
+## Materials
