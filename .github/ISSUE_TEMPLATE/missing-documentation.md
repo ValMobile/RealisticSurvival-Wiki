@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Description
-<!-- Explain what you think should be added to the Wiki -->
+<!-- Explain what you think should be added to the Wiki to solve the issue -->
 
 ## Wiki page (If applicable)
 <!-- What page is missing information? -->
