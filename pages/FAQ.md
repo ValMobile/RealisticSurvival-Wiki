@@ -19,12 +19,12 @@
 To download and install Realistic Survival you can refer to [this guide here](https://github.com/ValMobile/RealisticSurvival/wiki/Installing-Realistic-Survival).
 
 ## Will Realistic Survival be available for Minecraft version XYZ?
-Realistic Survival will only be available for versions 1.17 and onward. There are no plans for backporting to earlier versions.
+Realistic Survival will only be available for versions 1.16 and onward. There are no plans for backporting to earlier versions.
 
 ## I have an error/bug with Realistic Survival
-Ok, first, join our [Support Server](https://discord.gg/mMt3f4usqK) if you aren't in it already and go to any of the support channels like `#support-x`. We must determine if it is a bug, user error, or intended behaviour. Note that we **do not accept bug reports on discord, only on GitHub**. But experience has shown that 9 of 10 "bugs" result from outdated plugin versions, improper installation, or similar, so please discuss these issues with others on our discord server first so that developers can focus on confirmed bug reports.
+Ok, first, join our [Support Server](https://discord.gg/mMt3f4usqK) if you aren't in it already and create a thread in the forum channel, `#support`. We must determine if it is a bug, user error, or intended behaviour. Note that we **do not accept bug reports on discord, only on GitHub**. But experience has shown that 9 of 10 "bugs" result from outdated plugin versions, improper installation, or similar, so please discuss these issues with others on our discord server first so that developers can focus on confirmed bug reports.
 
-Now, send us the following information (in the `#support-x` channel):
+Now, send us the following information (in the `#support` channel):
 1. Check your console. Are there any errors? (If so, post them via https://pastebin.com/)
 
 2. What do you intend to happen, and what is happening?
@@ -49,4 +49,4 @@ so updates and bug fixes are expected to be implemented at a slow rate. I am als
 There is not a set answer for each and every plugin, but Realistic Survival will not be compatible with any plugin that heavily utilizes action bars or custom resource packs.
 
 ## Does XYZ custom mob exist?
-No custom mobs, including dragons and sea serpents, are implemented currently. However, certain mobs drop custom loot.
+Only dragons and sea serpents are implemented currently. They appear as vanilla Minecraft ender dragons and elder guardians, respectively. However, certain mobs drop custom loot.

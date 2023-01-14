@@ -25,7 +25,7 @@ It is absolutely **crucial** that you check your versions, 90% of issues can alr
 Gather the following information:
 * **Your Server Software** *(Are you running Bukkit, Spigot, Paper or something else?)*
 * **Your Minecraft Version** *(Is it 1.17, is it 1.18, 1.19001? You should know that.)*
-* **Your Slimefun Version** *(What version have you installed? Is it a DEV build or a "stable" version?)*
+* **Your Realistic Survival Version** *(What version have you installed? Is it a DEV build or a "stable" version?)*
 
 You can quickly gather all this info at once by running the command `/rsv version`.<br>
 
@@ -38,7 +38,7 @@ It's like finding a nail in a pile of hay, but the pile is on fire and on an ent
 The next step is to compare the versions you acquired in step 1 to the most recent versions.
 
 * **Is your Server Software up to date?** *(Check if there has been an update to Spigot, Paper, Bukkit or whatever you are using)*
-* **Is Slimefun up to date?** *(You can check whether there are newer versions than yours [on the download page](https://www.spigotmc.org/resources/realistic-survival-1-17-temperature-thirst-baubles.93795/history)*
+* **Is Realistic Survival up to date?** *(You can check whether there are newer versions than yours [on the download page](https://www.spigotmc.org/resources/realistic-survival-1-16-dragons-baubles-weapons.93795/history)*
 * **Are you using a DEV build?** *(Stable builds are, well "stable" but far from bug-free)*
 
 To add on to the last point: We will not be accepting bug reports from "stable" versions, switch to a much later development version and see if your issue persists first.

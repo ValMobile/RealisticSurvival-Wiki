@@ -3,7 +3,7 @@ To install Realistic Survival, you will need a Spigot or Paper Server (most pref
 Forks of either of these should work too, though we only test against Paper and Spigot.
 
 ### Realistic Survival Downloads
-You can download stable released builds on [Spigot](https://www.spigotmc.org/resources/realistic-survival-1-17-temperature-thirst-baubles.93795/history) or download development builds in the `dev-log` channel of the [Discord server](https://discord.gg/mMt3f4usqK).
+You can download stable released builds on [Spigot](https://www.spigotmc.org/resources/realistic-survival-1-16-dragons-baubles-weapons.93795/history) or download development builds in the `dev-log` channel of the [Discord server](https://discord.gg/mMt3f4usqK).
 Stable builds have been around for quite a while and were thoroughly tested, development builds are the latest builds of Realistic Survival you can get.
 If your server is very reliant on a working build of Realistic Survival, choose a stable build.
 But if you want to help contribute to Realistic Survival by reporting issues and helping us identify those more quickly, please consider using a development build (Bug Reports from "stable" builds may be ignored since they are outdated).
