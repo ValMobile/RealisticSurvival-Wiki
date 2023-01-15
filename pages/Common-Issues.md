@@ -6,7 +6,7 @@
 - [Temperature and thirst bar not displaying properly](#temperature-and-thirst-bar-not-displaying-properly)
 - [Temperature does not change and thirst does not drain](#temperature-does-not-change-and-thirst-does-not-drain)
 - [Plugin not functioning on certain worlds](#plugin-not-functioning-on-certain-worlds)
-- [Wooden logs and planks don't drop anything](#wooden-logs-and-planks-don't-drop-anything)
+- [Wooden logs and planks don't drop anything](#wooden-logs-and-planks-dont-drop-anything)
 - [Cannot craft wooden planks and sticks](#cannot-craft-wooden-planks-and-sticks)
 - [Textures not displaying](#textures-not-displaying)
 - [Armor models not displaying](#armor-models-not-displaying)
