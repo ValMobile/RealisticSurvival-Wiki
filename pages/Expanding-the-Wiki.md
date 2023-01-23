@@ -67,7 +67,7 @@ Make sure that all your images use the PNG image format and have proper names.
 The names should be in lower case, contain no spaces, and use hyphens to separate words.
 Examples: "golden-greatsword-recipe.png", "sea-serpent.png", "lightning-dragon.png".
 
-Drag and drop the images you want to upload onto the grey area and hit "Commit changes".<br>
+Drag and drop the images you want to upload onto the gray area and hit "Commit changes".<br>
 Now you can use your image on any page using the following code snippet:<br>
 ```![image label](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/FILE_NAME)```<br>
 Replace FILE_NAME with the name of your file (e.g. "fire-dragon.png") and give the name a short description in the "image label" field.
