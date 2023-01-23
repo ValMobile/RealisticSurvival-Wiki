@@ -11,12 +11,12 @@ To craft any Spartan weapon, you will need to make either a handle or a pole.
 Handles can be crafted individually with a piece of string or 4 at a time using either leather or wool.<br>
 <img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/handle-string-recipe.png" width="248" height="140" alt="Handle string recipe"/>
 <img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/handle-leather-recipe.png" width="248" height="140" alt="Handle leather recipe"/>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/handle-wool-recipe.png" width="248" height="140" alt="Handle leather recipe"/><br>
-The leather in the above recipe can be substituted for wool of any colour.<br>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/handle-wool-recipe.png" width="248" height="140" alt="Handle wool recipe"/><br>
+The leather in the above recipe can be substituted for wool of any color.<br><br>
 Poles can be crafted in a similar way.<br>
 <img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/pole-string-recipe.png" width="248" height="140" alt="Pole string recipe"/>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/pole-leather-recipe.png" width="248" height="140" alt="Pole string recipe"/>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/pole-wool-recipe.png" width="248" height="140" alt="Pole string recipe"/><br>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/pole-leather-recipe.png" width="248" height="140" alt="Pole leather recipe"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/pole-wool-recipe.png" width="248" height="140" alt="Pole wool recipe"/><br>
 And of course, the wool in the pole recipe can be substituted for leather.
 
 ## Bladed Weapons
