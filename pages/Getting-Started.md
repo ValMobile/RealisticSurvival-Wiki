@@ -13,20 +13,19 @@ From there, left-click the flint on a stone block to break it into flint shards.
 <img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/acquiring-flint-shard.png" width="214" height="226" alt="Acquiring flint shard"/>
 
 Break leaves to acquire sticks, and then craft a flint knife using the flint shard and stick as shown below.<br><br>
-
-![Flint Knife Recipe](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/flint-knife-recipe.png)
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/flint-knife-recipe.png" width="232" height="155" alt="Flint knife recipe"/>
 
 You'll now want to craft a flint axe, but you must acquire some plant string first. Break grass to acquire plant fibers, and craft plant string as shown below. <br><br>
-![Plant String Recipe](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/plant-string-recipe.png)
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/plant-string-recipe.png" width="233" height="154" alt="Plant string recipe"/>
 
 Now, combine the plant string, stick, and flint shard to craft a flint axe as shown below. You can now mine wooden logs.<br><br>
-![Flint Axe Recipe](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/flint-axe-recipe.png)
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/flint-axe-recipe.png" width="233" height="154" alt="Flint axe recipe"/>
 
 You'll notice that wooden planks are no longer craftable. Bummer, it seems like you've lost your ability to chop giant wooden cubes into planks with your bare hands.
 Luckily, you can acquire wooden planks with the flint axe you just crafted.  
 Place the wooden log down and right-click its top face while holding the flint axe in your main hand to acquire planks.
 You may have to right-click multiple times.<br><br>
-![Acquiring Planks](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/acquiring-planks.png)
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/acquiring-planks.png" width="235" height="193" alt="Acquiring planks"/>
 
 You should also notice that sticks cannot be crafted. To acquire them, place the wooden plank down and right-click its top face.
 You may have to right-click multiple times.
@@ -61,18 +60,18 @@ To drink from rain, shift and left click while looking directly upwards.<br>
 To drink from water and juice bottles, simply consume the item.
 
 Purified water can be acquired by smelting water bottles or combining a water bottle and a charcoal filter in a crafting table.<br><br>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/smelting-water-bottle.png" width="394" height="274" alt="Smelting water bottle"/>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/purified-water-bottle-recipe-smelting.png" width="408" height="274" alt="Purified water bottle recipe smelting"/><br>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/charcoal-filter-recipe.png" width="496" height="280" alt="Charcoal filter recipe"/>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/purified-water-bottle-recipe-crafting.png" width="583" height="280" alt="Purified water bottle recipe crafting"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/smelting-water-bottle.png" width="196" height="136" alt="Smelting water bottle"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/purified-water-bottle-recipe-smelting.png" width="204" height="136" alt="Purified water bottle recipe smelting"/><br>
+ <img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/charcoal-filter-recipe.png" width="247" height="139" alt="Charcoal filter recipe"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/purified-water-bottle-recipe-crafting.png" width="291" height="139" alt="Purified water bottle recipe crafting"/>
 
 Purified water can then be combined with sugar and a fruit to create juices.<br><br>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/juice-beetroot-recipe.png" width="494" height="269" alt="Beetroot juice recipe"/>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/juice-carrot-golden-recipe.png" width="494" height="269" alt="Golden carrot juice recipe"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/juice-beetroot-recipe.png" width="246" height="134" alt="Beetroot juice recipe"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/juice-carrot-golden-recipe.png" width="246" height="134" alt="Golden carrot juice recipe"/>
 
 To store juices, purified water, or unpurified water, craft a canteen and then combine the canteen with your drink. A canteen can store five drinks.<br><br>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/canteen-recipe.png" width="496" height="280" alt="Canteen recipe"/>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/canteen-beetroot-filled-recipe.png" width="496" height="280" alt="Canteen beetroot filled recipe"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/canteen-recipe.png" width="247" height="139" alt="Canteen recipe"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/canteen-beetroot-filled-recipe.png" width="247" height="139" alt="Canteen beetroot filled recipe"/>
 
 ## 3. Crafting Spartan Weapon
 The vanilla Minecraft weapons, although decent overall, perform poorly in certain situations. To specialize your playing style and create unique combat strategies, you'll want
@@ -98,13 +97,13 @@ To harness the power of a bauble, you'll have to equip it in a bauble bag. You c
 <img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/bauble-bag-recipe.png" width="267" height="135" alt="Bauble bag recipe"/>
 
 To open the bauble bag, right-click while holding it. You should see a GUI like below.<br><br>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/bauble-bag-inventory.png" width="172" height="125" alt="Bauble bag inventory"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/bauble-bag-inventory.png" width="258" height="187" alt="Bauble bag inventory"/>
 
 Some baubles can only be equipped in certain slots while others can be equipped in any slot. This information will be indicated on their lore.<br><br>
 ![Dragon's eye item](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/dragons-eye-item.png)
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/dragons-eye-item-lore.png" width="231" height="116" alt="Dragon's eye item"/><br>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/dragons-eye-item-lore.png" width="154" height="77" alt="Dragon's eye item"/><br>
 ![Balloon item](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/balloon-item.png)
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/balloon-item-lore.png" width="557" height="95" alt="Balloon lore"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/balloon-item-lore.png" width="371" height="63" alt="Balloon lore"/>
 
 To equip a bauble, place it in its corresponding slot. All slots and some of their corresponding baubles are shown below for your reference.
 
@@ -115,7 +114,7 @@ To equip a bauble, place it in its corresponding slot. All slots and some of the
 
 ## 5. Fighting Sea Serpents
 Dangerous monsters known as sea serpents will now spawn in bodies of water. Upon death, they drop scales used to craft tide guardian armor.<br><br>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/sea-serpent.png" width="287" height="324" alt="Sea serpent"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/sea-serpent.png" width="191" height="216" alt="Sea serpent"/>
 
 ### Combat Strategies
 It is recommended to have at least diamond armor, preferably enchanted, and a decent number of baubles before attempting to fight a sea serpent.
@@ -128,7 +127,7 @@ This is subject to change in the future, however.
 You'll need shiny scales to craft tide guardian in addition to the sea serpent scales you just acquired.
 
 They can be acquired by killing sirens, which also spawn in bodies of water.<br><br>
-<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/siren.png" width="295" height="324" alt="Siren"/>
+<img src="https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/siren.png" width="196" height="216" alt="Siren"/>
 
 Note that sirens currently do not have any custom attacks. Their AI and appearance are exactly like that of vanilla guardians.  
 Some users have reported that sirens do not spawn. If this issue occurs, you can edit the `MobDrops` section in the `iceandfire.yml` config file to add shiny scale drops.
