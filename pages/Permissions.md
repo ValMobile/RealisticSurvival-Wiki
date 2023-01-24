@@ -20,8 +20,8 @@ Many of them are used for commands, so make sure to also see the wiki page about
 ## Permissions for the Ice and Fire module
 | Permission                                          | Description                                                                 | Default assignment |
 |-----------------------------------------------------|-----------------------------------------------------------------------------|--------------------|
-| realisticsurvival.iceandfire.resistance.*           | Wildcard permission that grants immunity to all Ice and Fire visual effects | OP                 |
-| realisticsurvival.iceandfire.resistance.sirenvisual | Prevents the player's screen from changing due to sirens                    | OP                 |
+| realisticsurvival.iceandfire.resistance.*           | Wildcard permission that grants immunity to all Ice and Fire visual effects | False              |
+| realisticsurvival.iceandfire.resistance.sirenvisual | Prevents the player's screen from changing due to sirens                    | False              |
 
 ## Permissions for the Tough as Nails module
 | Permission                                                       | Description                                                                                                                                                                                             | Default assignment |
