@@ -6,10 +6,10 @@
 - [1. Keeping an eye on performance](#1-keeping-an-eye-on-performance)
 - [2. Choosing the right Server Software](#2-choosing-the-right-server-software)
 - [3. Avoiding /reload](#3-avoiding-reload)
-- [4. Disabling backwards-compatibility](#4-disabling-backwards-compatibility)
-- [5. Slower Tick-rates](#5-slower-tick-rates)
-- [6. Handling Cargo networks](#6-handling-cargo-networks)
-- [7. Enabling Automatic updates](#7-enabling-automatic-updates)
+- [4. Slower Tick-rates](#4-slower-tick-rates)
+- [5. Handling Cargo networks](#5-handling-cargo-networks)
+- [6. Enabling Automatic updates](#6-enabling-automatic-updates)
+
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
