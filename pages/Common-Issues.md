@@ -26,7 +26,8 @@ Most issues are caused by not installing the plugin or customizing the per-world
 so, first, review the [guide on installing the plugin](https://github.com/ValMobile/RealisticSurvival/wiki/Installing-Realistic-Survival) to make sure you've followed the steps correctly.
 
 ### How to fix this (White rectangles)
-Set `Force Unicode Font` to `off` in `Language...` option settings.
+Set `Force Unicode Font` to `off` in `Language...` option settings.<br><br>
+![Set force unicode font to off](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/force-unicode-font.png)
 
 ### How to fix this (Invisible bar)
 Ensure you have installed the plugin correctly and configured the per-world settings so that the Tough as Nails module is enabled on your worlds.

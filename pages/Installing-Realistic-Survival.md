@@ -15,7 +15,8 @@ Drag and drop the Realistic Survival jar file into your server's */plugins/* dir
 Then, restart your server.<br>
 Next, configure the per-world settings to ensure the plugin is enabled on your desired worlds. See the [customizing the 
 install guide](#customizing-the-install) for more information. <br>
-Finally, set `Force Unicode Font` to `off` in `Language...` option settings. This is necessary for the temperature and thirst bar to properly display.
+Finally, set `Force Unicode Font` to `off` in `Language...` option settings. This is necessary for the temperature and thirst bar to properly display.<br><br>
+![Set force unicode font to off](https://raw.githubusercontent.com/ValMobile/RealisticSurvival-Wiki/master/images/force-unicode-font.png)
 
 ***If you are migrating from an older version, follow the instructions under the [migration guide](#migrating-from-older-versions) first before installing.***
 
